@@ -1,0 +1,14 @@
+/Users/leandroalexandre/Desktop/cSharp/GerenciadorTarefas/bin/Debug/net9.0/GerenciadorTarefas
+/Users/leandroalexandre/Desktop/cSharp/GerenciadorTarefas/bin/Debug/net9.0/GerenciadorTarefas.deps.json
+/Users/leandroalexandre/Desktop/cSharp/GerenciadorTarefas/bin/Debug/net9.0/GerenciadorTarefas.runtimeconfig.json
+/Users/leandroalexandre/Desktop/cSharp/GerenciadorTarefas/bin/Debug/net9.0/GerenciadorTarefas.dll
+/Users/leandroalexandre/Desktop/cSharp/GerenciadorTarefas/bin/Debug/net9.0/GerenciadorTarefas.pdb
+/Users/leandroalexandre/Desktop/cSharp/GerenciadorTarefas/obj/Debug/net9.0/GerenciadorTarefas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leandroalexandre/Desktop/cSharp/GerenciadorTarefas/obj/Debug/net9.0/GerenciadorTarefas.AssemblyInfoInputs.cache
+/Users/leandroalexandre/Desktop/cSharp/GerenciadorTarefas/obj/Debug/net9.0/GerenciadorTarefas.AssemblyInfo.cs
+/Users/leandroalexandre/Desktop/cSharp/GerenciadorTarefas/obj/Debug/net9.0/GerenciadorTarefas.csproj.CoreCompileInputs.cache
+/Users/leandroalexandre/Desktop/cSharp/GerenciadorTarefas/obj/Debug/net9.0/GerenciadorTarefas.dll
+/Users/leandroalexandre/Desktop/cSharp/GerenciadorTarefas/obj/Debug/net9.0/refint/GerenciadorTarefas.dll
+/Users/leandroalexandre/Desktop/cSharp/GerenciadorTarefas/obj/Debug/net9.0/GerenciadorTarefas.pdb
+/Users/leandroalexandre/Desktop/cSharp/GerenciadorTarefas/obj/Debug/net9.0/GerenciadorTarefas.genruntimeconfig.cache
+/Users/leandroalexandre/Desktop/cSharp/GerenciadorTarefas/obj/Debug/net9.0/ref/GerenciadorTarefas.dll
